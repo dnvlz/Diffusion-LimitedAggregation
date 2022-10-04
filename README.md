@@ -7,7 +7,7 @@ a) Using *vpython*, we [animate](https://drive.google.com/file/d/1-hU4MiXmSjXyto
 
 b) In the interests of speed, the [animation](https://drive.google.com/file/d/1-j7fUBAw6FAeLStQL08aJrK3bGGxXbBX/view?usp=sharing) is modified to show only the anchored particles on the screen and not the randomly walking ones. The program stops running once there is an anchored particle in the center of the grid, at the point where each particle starts its random walk.
 ______________________________________________________________________________________________________________________
-La agregación limitada por difusión (ALD) es el proceso mediante el cual las partículas que experimentan una caminata aleatoria debido al movimiento browniano se agrupan para formar agregadoS.
+La agregación limitada por difusión (ALD) es el proceso mediante el cual las partículas que experimentan una caminata aleatoria por movimiento browniano se agrupan para formar agregados.
 
 Hay varias versiones de la ALD, pero la que estudiamos es la siguiente. Comenzamos con una cuadrícula cuadrada y una sola partícula en el medio. La partícula realiza una caminata aleatoria de un cuadrado a otro hasta que llega a un punto en el borde del sistema, ancladándose a él. Luego, una segunda partícula comienza en el centro y realiza un recorrido aleatorio hasta que se pega a un borde o a otra partícula. Luego comienza una tercera partícula, y así sucesivamente.
 
