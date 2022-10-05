@@ -14,3 +14,5 @@ Hay varias versiones de la ALD, pero la que estudiamos es la siguiente. Comenzam
 a) Usando *vpython*, [animamos](https://drive.google.com/file/d/1-hU4MiXmSjXytoFnIC9sUsQIGjeq3eju/view?usp=sharing) el proceso de la ALD en una red de 101×101: elegimos una longitud impar para los lados del cuadrado, asegurando que haya un sitio de la red exactamente en el centro. Luego, introducimos repetidamente una nueva partícula en el centro y hacemos que camine aleatoriamente hasta que se adhiera a un borde o una partícula anclada.
 
 b) En aras de la velocidad, la [animación](https://drive.google.com/file/d/1-j7fUBAw6FAeLStQL08aJrK3bGGxXbBX/view?usp=sharing) se modifica para mostrar sólo las partículas ancladas en la pantalla y no su recorrido total. El programa deja de ejecutarse una vez que hay una partícula anclada en el centro de la cuadrícula, en el punto donde cada partícula comienza su recorrido aleatorio.
+
+Ref. Computational Physics, Mark Newman
